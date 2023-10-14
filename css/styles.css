@@ -1,0 +1,56 @@
+ .rightside{
+    height: 50vh;
+    width: 50vw;
+    margin: 10px; 
+    padding: 50px;    
+} 
+.leftside{
+   height: 50vh;
+   width: 50vw;
+   margin: 10px; 
+   padding: 50px;  
+}  
+.inputDiv {
+  margin: 30px;
+  padding: 50px; 
+}
+.inputalter{
+    margin-bottom: 3%;
+    border-radius: 20px;
+    cursor: pointer;
+    padding: 10px;
+    margin: 10px;
+    text-align: justify; 
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+ }
+ .font{
+   text-align:justify;
+   font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:700;
+    padding: 8px;
+ }
+ .split-container{
+    display: flex;
+    justify-content: center;
+ }
+ .card{
+   margin: 50px;
+   border-radius: 20px;
+   width: 1000px; 
+   height: 500px; 
+   background-color: #e2cbcb;
+   display: flex;
+   box-shadow: 0 2px 4px rgba(25, 25, 25, 0.1);
+
+ }
+ .imgalter  {
+   border: 20px;
+   padding: 20px;
+   margin: 20px;
+   padding-bottom: 10px;
+   align-items: center;
+ }
+
